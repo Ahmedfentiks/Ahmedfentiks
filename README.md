@@ -19,7 +19,7 @@
 
 ### Languages
 
-`Dart` `C++` `C#` `Java` `Python` `SQL`
+`Dart` `C++`  `SQL`
 
 ### Mobile
 
@@ -56,12 +56,12 @@ with categorized browsing and a clean UI.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ahmedfentiks&show_icons=true&theme=tokyonight)
+![Stats]([https://github-readme-stats.vercel.app/api?username=Ahmedfentiks&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmedfentiks&show_icons=true&theme=tokyonight))
 
 ![Streak](https://streak-stats.demolab.com?user=Ahmedfentiks&theme=tokyonight)
 
 ![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedfentiks&layout=compact&theme=tokyonight)
+Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ahmedfentiks&layout=compact&theme=tokyonight)
 
 ## 🎯 Goals
 
