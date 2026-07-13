@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="assets/ahmed.png" alt="Ahmed Gamal Banner" width="90%" />
-</p>
-
 <h1 align="center">
   Hi 👋, I'm Ahmed Gamal (Ahmed Fentiks)
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Building+Ideas+Creating+Solutions;Clean+Architecture+%7C+MVVM+%7C+Bloc;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
