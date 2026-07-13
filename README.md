@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ahmed.png" alt="Ahmed Gamal Banner" width="100%" />
+  <img src="assets/ahmed.png" alt="Ahmed Gamal Banner" width="90%" />
 </p>
 
 <h1 align="center">
