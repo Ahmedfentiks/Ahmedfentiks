@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Ahmed Gamal (Ahmed Fentiks)
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Fourth-Year+Computer+Science+Student;Clean+Architecture+%7C+MVVM+%7C+Bloc;Always+Learning+New+Things" />`{=html}
-```{=html}
-</p>
-```
 ## 🚀 About Me
 
 -   🎓 Fourth-Year Computer Science Student at **Faculty of Computers
