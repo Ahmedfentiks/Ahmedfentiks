@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Ahmed Gamal (Ahmed Fentiks)
-
 ## 🚀 About Me
 
 -   🎓 Fourth-Year Computer Science Student at **Faculty of Computers
